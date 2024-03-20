@@ -1,4 +1,4 @@
-module github.com/solarlune/ldtkgo
+module github.com/soockee/ldtkgo
 
 go 1.14
 
